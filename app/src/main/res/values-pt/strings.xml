@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">teste</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="ir">Ir</string>
+    <string name="contato_tel">contato por telefone</string>
+    <string name="contato_email">contato por email</string>
+    <string name="Sim">Sim</string>
+    <string name="Não">Não</string>
+    <string name="Confirmação">Confirmação</string>
+</resources>

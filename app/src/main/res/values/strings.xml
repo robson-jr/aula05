@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">teste</string>
+    <string name="nome">Name</string>
+    <string name="telefone">phone</string>
+    <string name="email">Email</string>
+    <string name="ir">Go</string>
+    <string name="contato_tel">contact by phone</string>
+    <string name="contato_email">contact by email</string>
+    <string name="Sim">Yes</string>
+    <string name="Não">No</string>
+    <string name="Confirmação">Confirmation</string>
+</resources>
